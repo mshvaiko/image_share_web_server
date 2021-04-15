@@ -22,4 +22,4 @@ This configuration instruction supposed to use under UNIX-like OS with preinstal
 >*ln -s  ~/Pictures ./static*
 
 ### Run script:
->*python api.py*
+>*python app.py*
